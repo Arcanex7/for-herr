@@ -12,7 +12,8 @@ body{
 }
 .intro-img{
     filter: brightness(50%);
-    max-width: 100%;
+    width: 100%;
+    background-size:cover;
    
 
 
@@ -43,7 +44,7 @@ body{
     /* font-family: 'Secular One', sans-serif; */
     /* text-decoration: underline; */
     text-shadow: 2px;
-    font-family: 'Iceland',cursive,sans-serif;
+    font-family: 'Iceland',sans-serif;
     font-style: italic;
     font-weight: lighter;
 }
